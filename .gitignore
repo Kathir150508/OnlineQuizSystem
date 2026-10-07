@@ -1,0 +1,4 @@
+config.properties
+out/
+bin/
+*.class
